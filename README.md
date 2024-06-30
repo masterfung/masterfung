@@ -1,7 +1,7 @@
 ### Hi I'm Johnny! Welcome! 👋🎇
 
 - Based in San Francisco, CA 🌉
-- Over 9️⃣ years of experience
+- Over 10 years of experience
 - My primary language is Javascript 🚀
 - 📚 Currently deepening my ML, Cybersecurity, and Rust skills
 - Pronouns: (he/him) 👨
